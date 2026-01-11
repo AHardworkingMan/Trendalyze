@@ -1,0 +1,133 @@
+[
+    {
+        "device_id": "bd5f91d6-ad76-4abf-afcd-539aeb4cd4f7",
+        "device_type": "DoorLock",
+        "capabilities": [
+            "lock",
+            "unlock",
+            "status"
+        ]
+    },
+    {
+        "device_id": "4c313f49-da21-4ef9-8d20-b511be84c9ba",
+        "device_type": "Curtain",
+        "capabilities": [
+            "shadeLevel",
+            "switch"
+        ]
+    },
+    {
+        "device_id": "4dcd7489-858d-41e4-a9d7-1e0ba08d9d2f",
+        "device_type": "AirConditioner",
+        "capabilities": [
+            "temperature",
+            "humidity",
+            "switch",
+            "mode"
+        ]
+    },
+    {
+        "device_id": "209a0d07-0f52-48ec-830d-efc721782afb",
+        "device_type": "TV",
+        "capabilities": [
+            "volume",
+            "switch",
+            "channel",
+            "mute"
+        ]
+    },
+    {
+        "device_id": "9b8d61d7-b623-4c2e-ad84-c0b5ba782a5b",
+        "device_type": "SmartFridge",
+        "capabilities": [
+            "temperature",
+            "humidity",
+            "doorStatus",
+            "mode"
+        ]
+    },
+    {
+        "device_id": "50bead21-6e44-42d3-ae5c-fba37f9e42d5",
+        "device_type": "Washer",
+        "capabilities": [
+            "washMode",
+            "spinSpeed",
+            "status",
+            "temperature"
+        ]
+    },
+    {
+        "device_id": "952fc083-5ee0-4148-bedb-3e65d575bf27",
+        "device_type": "Light",
+        "capabilities": [
+            "switch",
+            "switchLevel",
+            "temperature"
+        ]
+    },
+    {
+        "device_id": "b1e9c9ac-d08f-4759-8ffa-bcfd004f8a09",
+        "device_type": "Light",
+        "capabilities": [
+            "switch",
+            "switchLevel",
+            "temperature"
+        ]
+    },
+    {
+        "device_id": "4d528e52-b592-44ea-bb1f-5bae8a889cbc",
+        "device_type": "Light",
+        "capabilities": [
+            "switch",
+            "switchLevel",
+            "temperature"
+        ]
+    },
+    {
+        "device_id": "4d7221cb-548d-4cf1-b53f-843de5fb09f5",
+        "device_type": "Light",
+        "capabilities": [
+            "switch",
+            "switchLevel",
+            "temperature"
+        ]
+    },
+    {
+        "device_id": "f92ff7f0-6f00-4a8f-9e69-74d47025f43a",
+        "device_type": "Switch",
+        "capabilities": [
+            "switch"
+        ]
+    },
+    {
+        "device_id": "8300c75a-bb2c-4b55-919d-e05c2e4973ac",
+        "device_type": "Switch",
+        "capabilities": [
+            "switch"
+        ]
+    },
+    {
+        "device_id": "c247dc91-7c10-4de5-9827-bdd6dda97f06",
+        "device_type": "Switch",
+        "capabilities": [
+            "switch"
+        ]
+    },
+    {
+        "device_id": "a3d216d5-5d5d-4cbf-b61d-a4f0c34a3d99",
+        "device_type": "SoundBar",
+        "capabilities": [
+            "volume",
+            "switch",
+            "mute"
+        ]
+    },
+    {
+        "device_id": "3a4106f7-6447-45e8-9b9e-0be48c0ae588",
+        "device_type": "Curtain",
+        "capabilities": [
+            "shadeLevel",
+            "switch"
+        ]
+    }
+]
